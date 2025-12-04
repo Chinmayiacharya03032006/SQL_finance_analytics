@@ -105,37 +105,25 @@ Assigns Gold / Silver category
 🧠 Concepts Demonstrated
 
 SQL Functions
-
 Stored Procedures
-
 Joins (INNER JOIN)
-
 Date manipulation
-
 Aggregations & KPIs
-
 Financial Calculations (Revenue, Gross Sales)
-
 Performance classification logic
 
 🚀 How to Use
 
 Clone the repository
-
 Import the database schema
-
 Run the SQL functions & procedures
-
 Execute reports for any customer or market
 
 📈 Example Output KPIs
 
 Monthly Gross Sales
-
 Market Category (Gold/Silver)
-
 Total Sold Quantity
-
 Fiscal-Year Revenue
 
 🙌 About Me
